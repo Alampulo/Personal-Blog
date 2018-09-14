@@ -1,14 +1,14 @@
-# One Minute PItch 
-
-This is an application that contains different type of categories of pitches that are educative
+# Personal-Blog
+A personal blogging website where I can create and share My opinions and other users can read and comment on them.
 ## Description
 
 This application enables a user :
-* To see the pitches other people have posted.
-* To vote on the pitch they liked and give it a downvote or upvote.
-* To comment on the different pitches and leave feedback.
-* To submit a pitch in any category.
-* To view the different categories.
+* To view blog posts submitted
+* To comment on blogs post.
+* To view most recent posts.
+* To be alerted after new post.
+* To sign in to the blog.
+* update or delete comments.
 
 ## Prerequisites
  * Install python3.6
