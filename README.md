@@ -57,7 +57,7 @@ This application enables a user :
 
 ## Known Bugs
 
-*Reach me out incase of any bugs
+* Reach me out incase of any bugs
 
 ## Versioning
 
